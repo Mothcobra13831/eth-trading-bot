@@ -21,7 +21,7 @@
 **1️⃣ Clone the project**
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/Mothcobra13831/eth-trading-bot.git
 cd <your-repo>
 ```
 
@@ -116,7 +116,7 @@ Script-Contract/
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/Mothcobra13831/eth-trading-bot.git
 cd <your-repo>
 ```
 
